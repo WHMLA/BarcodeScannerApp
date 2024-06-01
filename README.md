@@ -1,0 +1,2 @@
+# BarcodeScannerApp
+Aplicación de escaneo
